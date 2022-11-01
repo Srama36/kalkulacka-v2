@@ -1,0 +1,7 @@
+C:\Users\Sramek.Ja.2022\source\repos\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.exe.config
+C:\Users\Sramek.Ja.2022\source\repos\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.exe
+C:\Users\Sramek.Ja.2022\source\repos\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.pdb
+C:\Users\Sramek.Ja.2022\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.csprojAssemblyReference.cache
+C:\Users\Sramek.Ja.2022\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.csproj.CoreCompileInputs.cache
+C:\Users\Sramek.Ja.2022\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.exe
+C:\Users\Sramek.Ja.2022\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.pdb
